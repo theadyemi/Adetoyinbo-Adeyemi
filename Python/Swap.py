@@ -1,0 +1,9 @@
+a = input('Enter input a ')
+b = input('Enter input b ')
+c = ""
+c = a
+a = b
+b = c
+print('a = ' + a)
+print('b = ' + b)
+print('c = ' + c)
